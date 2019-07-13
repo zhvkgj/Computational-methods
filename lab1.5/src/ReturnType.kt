@@ -1,0 +1,1 @@
+data class ReturnType(val type: String, val value: Double, val error: Double)
